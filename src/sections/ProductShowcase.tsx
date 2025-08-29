@@ -7,7 +7,7 @@ export const ProductShowcase = () => {
   return (
     <section className='bg-gradient-to-b from-[#ffffff] to-[#d2dcff] py-20 overflow-x-clip'>
       <div className="container">
-        <div className='max-w-[540px] mx-auto'>
+        <div className='section-heading'>
           <div className='flex items-center justify-center'>
             <div className='tag'>Boost your productivity</div>
           </div>
